@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Rustam Salavatov
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Rustam Salavatov
+Founder LIFE2FILM.com, Research fellow Bashkir State University of Sterlitamak branch
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="info@life2film.com">info@life2film.com</a>
+<a href="http://life2film.com">LIFE2FILM.com</a>
 </div>
 
 
