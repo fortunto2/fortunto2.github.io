@@ -6,8 +6,7 @@ title: Rustam Salavatov
 Founder LIFE2FILM.com, Research fellow Bashkir State University of Sterlitamak branch
 
 <div id="webaddress">
-<a href="info@life2film.com">info@life2film.com</a>
-<a href="http://life2film.com">LIFE2FILM.com</a>
+<a href="mailto:info@life2film.com">info@life2film.com</a>
 </div>
 
 
